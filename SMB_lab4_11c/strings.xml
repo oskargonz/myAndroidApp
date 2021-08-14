@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyApp11</string>
+    <string name="wpisz_tekst">Wpisz tekst</string>
+    <string name="zapisz">Zapisz</string>
+    <string name="to_jest_drugie_activity">To jest drugie Activity.</string>
+    <string name="activity2">Activity2</string>
+    <string name="dodanieStudenta">com.example.myapp11.DODANO_PRODUKT</string>
+    <string name="channelID">channelStudent</string>
+    <string name="channelName">Dodawanie studentów</string>
+</resources>
